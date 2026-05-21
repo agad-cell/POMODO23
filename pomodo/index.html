@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>POMODO</title>
+
+    <link rel="styleSheet" href="style.css">
+</head>
+
+<body>
+
+
+<div class= "music-section">
+    <audio id="bg-music" loop>
+        <source src="bg-music.mp3">
+    </audio>
+<button id="music-control">Play music</button>
+</div>
+
+<div class="pomodo">
+    <div class="pomodro">
+
+        <h1 class="heading1">POMODRO</h1>
+
+        <p id="timer" class="timer">50:00</p>
+
+        <button id="start-btn" class="start">Start</button>
+       
+        <button id="stop-btn" class="stop">Stop</button>
+         <button id="reset-btn" class="reset">Reset</button>
+    </div>
+
+
+    <div class="change-box">
+    <button id="theme-btn">CHANGE ME</button>
+</div>
+
+  
+    
+
+    <div class="to-do">
+        <h1 class="heading1" style="padding-left: 68px; padding-bottom: 2px;">TODO</h1>
+
+
+
+         <div class="row">
+        <input name="task" type="task" id="input-task" placeholder="Enter the Task">
+        <button id="add-task">Add Task</button>
+        </div>
+        <ul id="task-list">
+            <!-- <li class="list">
+                task 1
+            </li>
+            <li>task 2</li>
+            <li>task 3</li> -->
+            <!-- we r not using li here cuz we don't know the limit of tasks that user will enter here so we r keeping it and span in js so user can add as much tasks as they want -->
+        </ul>
+
+
+
+
+
+    </div>
+  
+    </div>
+
+  
+   
+
+   
+
+
+
+    <script src="interactivity.js"></script>
+</body>
+
+</html>
