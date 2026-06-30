@@ -25,3 +25,8 @@ The tasks doesn't refresh when u close the tab it uses local storage...
 
 # How it all fits together
 The pomodoro section has 60 mins timer which allows user to keep track of their times.... The TO-DO section allows user to keep track of their taks and goals which they completed during that session... The music feature creates a calm and motivating study atmosphere.... The theme is especially designed to make the place comfortable and suitable for study....
+
+
+
+**AI use declaration**
+I used Ai for translation and grammatically mistakes cuz english isn't my first languag
