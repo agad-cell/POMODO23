@@ -29,4 +29,4 @@ The pomodoro section has 60 mins timer which allows user to keep track of their 
 
 
 **AI use declaration**
-I used Ai for translation and grammatically mistakes cuz english isn't my first languag
+I used Ai for translation and grammatically mistakes cuz english isn't my first language and a significant portion of development time went into debugging, testing, and refining the implementation,, as english isn't my first lang so i took help from AI for readme and the images r taken from pinterest
